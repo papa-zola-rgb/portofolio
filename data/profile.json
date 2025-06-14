@@ -27,7 +27,7 @@
         {"name": "Programable Logic Control", "icon": "fas fa-gear", "level": 85},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+        {"name": "Website Programming", "icon": "fab fa-js", "level": 70},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
 	{"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
 	{"name": "Automation System", "icon": "fas fa-circle-nodes", "level": 80},
