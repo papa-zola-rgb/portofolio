@@ -1,6 +1,6 @@
 {
-    "name": "Himmi Assyarfi Hilmi- Student at Semarang State Politechnic",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "name": "Himmi Assyarfi Hilmi- Student at Semarang State Polytechnic",
+    "description": "Student with a passion for learning and applying their knowledge to their daily lives. Currently studying at Semarang State Polytechnic, majoring in electrical engineering and majoring in the diploma three study program in electronic engineering. This year is in the last semester and is focusing on making the final project. Proficient in making or understanding electronic circuits, arduino software programs and programmable logic control (PLC). Committed to continue learning about electrical science, industrial automation and the internet of things, and also willing to learn new knowledge that is not taught on campus. Strive to utilize the knowledge possessed in the field of electronics and internet of things and the spirit to continue to seek new knowledge in order to become a talented and committed young man",
     "profileImage": "Himmi_Assyarfi_Hilmi.png",
     "email": "himmi.33222309@mhs.polines.ac.id",
     "phone": "+62 (859) 623-66751",
@@ -24,7 +24,7 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Programable Logic Control", "icon": "fas fa-gear", "level": 90},
         {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
@@ -32,6 +32,6 @@
         {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 65}
     ]
 }
