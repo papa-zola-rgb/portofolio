@@ -30,7 +30,7 @@
         {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
 	{"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-	{"name": "Automation System", "icon": "fas fa-circel-nodes", "level": 80},
+	{"name": "Automation System", "icon": "fas fa-circle-nodes", "level": 80},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 65}
     ]
 }
