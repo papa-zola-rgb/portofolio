@@ -1,20 +1,19 @@
 [
     {
         "title": "ANTI-THEFT ALARM CIRCUIT USING A TOUCH SENSOR",
-        "year": "2023",
-        "role": "physical assembly of tools",
+        "year": "2023,third semester",
+        "role": "Physical Assembly of Tools",
         "description": "A safety prototype that can be placed anywhere due to its minimalist size. Protect valuable items from unwanted things",
         "image": "project1.png",
-        "link": "https://example.com/solar-water"
+        "link": "https://example.com/theft-alarm"
     },
     {
-        "title": "SoC-based System for Non Contact Vital Signs Measurement",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project2.png",
-        "link": "https://example.com/assembly-optimization"
+        "title": "AUTOMATIC FISH FEEDER AND AQUARIUM MAINTENANCE TOOL",
+        "year": "2024, fourth semester",
+        "role": "Physical Assembly of Tools",
+        "description": "A fish feeder that can be timed using a keypad. Automatic water turbidity purifier in fish aquarium",
+        "image": "project2.png",
+        "link": "https://example.com/fish-feeder"
     },
 	{
         "title": "Contactless Vital Signs Kiosk in Intelligent Building",
