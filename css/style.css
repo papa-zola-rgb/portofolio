@@ -196,6 +196,7 @@ header {
 .profile-description {
     background: white;
     padding: 2rem;
+    text-align: justify;
     border-radius: var(--border-radius);
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     line-height: 1.7;
