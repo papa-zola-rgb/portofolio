@@ -6,18 +6,22 @@
     "phone": "+62 (859) 623-66751",
     "socialMedia": [
         {
+	    "text": "LinkedIn",
             "platform": "LinkedIn",
             "url": "https://linkedin.com/in/himmi-assyarfi-hilmi-undefined-bb1836332"
         },
         {
+	    "text": "GitHub",
             "platform": "GitHub",
             "url": "https://github.com/papa-zola-rgb"
         },
         {
+	    "text": "Instagram",
             "platform": "Instagram",
             "url": "https://instagram.com/hm_assyarfi"
         },
 	{
+	    "text": "Facebook",
             "platform": "Facebook",
             "url": "https://facebook.com/Assyarfi"
         }
