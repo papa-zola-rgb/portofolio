@@ -28,7 +28,7 @@
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "CV.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
