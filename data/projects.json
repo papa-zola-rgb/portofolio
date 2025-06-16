@@ -3,7 +3,7 @@
         "title": "ANTI-THEFT ALARM CIRCUIT USING A TOUCH SENSOR",
         "year": "2023,third semester",
         "role": "Physical Assembly of Tools",
-        "description": "A safety prototype that can be placed anywhere due to its minimalist size. Protect valuable items from unwanted things",
+        "description": "A safety prototype that can be placed anywhere due to its minimalist size. Protect valuable items from unwanted things.",
         "image": "project1.png",
         "link": "https://example.com/theft-alarm"
     },
@@ -11,7 +11,7 @@
         "title": "AUTOMATIC FISH FEEDER AND AQUARIUM MAINTENANCE TOOL",
         "year": "2024, fourth semester",
         "role": "Physical Assembly of Tools",
-        "description": "A fish feeder that can be timed using a keypad. Automatic water turbidity purifier in fish aquarium",
+        "description": "A fish feeder that can be timed using a keypad. Automatic water turbidity purifier in fish aquarium.",
         "image": "project2.png",
         "link": "https://example.com/fish-feeder"
     },
@@ -19,38 +19,18 @@
         "title": "Noise Detection Prototype in Library",
         "year": "2024, fourth semester",
         "role": "Project Lead",
-        "description": "Prorotype of noise level detector in the library using buzzer as a warning sign to maintain order. The library is a special place that is used as a place to focus on finding new knowledge, looking for book references or even the most comfortable place when studying, so a tool is needed to maintain order and comfort for students in the library",
+        "description": "Prorotype of noise level detector in the library using buzzer as a warning sign to maintain order. The library is a special place that is used as a place to focus on finding new knowledge, looking for book references or even the most comfortable place when studying, so a tool is needed to maintain order and comfort for students in the library.",
         "image": "project3.jpg",
         "link": "https://example.com/noise-detection"
     },
     {
-        "title": "Smart Irrigation",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project4.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "KOICA-Silla-UMN Indstrial 4.0",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project5.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund: iSense",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project6.png",
-        "link": "https://example.com/solar-water"
+        "title": "Monitoring the Capacity of Manufactured Items in the Warehouse",
+        "year": "2024",
+        "fund": "Rp20.000.000,00",
+        "partner": "Arisamandiri Pratama",
+        "role": "Maintenance Engineer",
+        "description": "A tool for monitoring warehouse capacity to maintain neatness in the arrangement of manufactured goods. With a neat placement of goods, it will maximize the function and effectiveness of warehouse storage capacity.",
+        "image": "project4.jpg",
+        "link": "https://example.com/monitoring-warehouse"
     }
 ]
