@@ -16,13 +16,12 @@
         "link": "https://example.com/fish-feeder"
     },
 	{
-        "title": "Contactless Vital Signs Kiosk in Intelligent Building",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
+        "title": "Noise Detection Prototype in Library",
+        "year": "2024, fourth semester",
         "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project3.png",
-        "link": "https://example.com/assembly-optimization"
+        "description": "Prorotype of noise level detector in the library using buzzer as a warning sign to maintain order. The library is a special place that is used as a place to focus on finding new knowledge, looking for book references or even the most comfortable place when studying, so a tool is needed to maintain order and comfort for students in the library",
+        "image": "project3.jpg",
+        "link": "https://example.com/noise-detection"
     },
     {
         "title": "Smart Irrigation",
@@ -53,35 +52,5 @@
         "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
         "image": "images/project6.png",
         "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund:RAMA",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project7.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Competitive Fund: PiDaQ",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project8.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Penelitian Tesis Magister: Activity Recognition",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project9.png",
-        "link": "https://example.com/solar-water"
-	}
+    }
 ]
