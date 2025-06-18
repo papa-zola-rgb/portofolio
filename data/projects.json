@@ -4,7 +4,7 @@
         "year": "2023,third semester",
         "role": "Physical Assembly of Tools",
         "description": "A safety prototype that can be placed anywhere due to its minimalist size. Protect valuable items from unwanted things.",
-        "image": "project1.png",
+        "image": "images/project1.png",
         "link": "https://example.com/theft-alarm"
     },
     {
@@ -12,7 +12,7 @@
         "year": "2024, fourth semester",
         "role": "Physical Assembly of Tools",
         "description": "A fish feeder that can be timed using a keypad. Automatic water turbidity purifier in fish aquarium.",
-        "image": "project2.png",
+        "image": "images/project2.png",
         "link": "https://example.com/fish-feeder"
     },
 	{
@@ -20,7 +20,7 @@
         "year": "2024, fourth semester",
         "role": "Project Lead",
         "description": "Prorotype of noise level detector in the library using buzzer as a warning sign to maintain order. The library is a special place that is used as a place to focus on finding new knowledge, looking for book references or even the most comfortable place when studying, so a tool is needed to maintain order and comfort for students in the library.",
-        "image": "project3.jpg",
+        "image": "images/project3.jpg",
         "link": "https://example.com/noise-detection"
     },
     {
@@ -30,7 +30,7 @@
         "partner": "Arisamandiri Pratama",
         "role": "Maintenance Engineer",
         "description": "A tool for monitoring warehouse capacity to maintain neatness in the arrangement of manufactured goods. With a neat placement of goods, it will maximize the function and effectiveness of warehouse storage capacity.",
-        "image": "project4.jpg",
+        "image": "images/project4.jpg",
         "link": "https://example.com/monitoring-warehouse"
     },
     {
@@ -38,7 +38,7 @@
         "year": "2024, Fourt Semester",
         "role": "Physical Assembly of Tools",
         "description": "A robot designed to follow the path of a predetermined line. The line here uses black color placed on a light colored surface. This robot uses an infrared sensor to detect the line and then drives the motor to walk along the path.",
-        "image": "project5.jpg",
+        "image": "images/project5.jpg",
         "link": "https://example.com/line-follower"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
         "university": "Politeknik Negeri Semarang",
-		"logo": "LOGO_POLINES.png",
+		"logo": "images/LOGO_POLINES.png",
         "major": "Electronical Engineering",
         "year": "2022 - 2025",
         "description": "GPA 3.28 of 4.00; Being part of the IoT practicum module creator under the supervision of BAMBANG SUPRIYO, BSEE, M.Eng.Sc.; Taking part in the creation of the website as a tool interfaces with the user"
     },
     {
         "university": "SMK Miftahul Huda Ngroto",
-		"logo": "smkmifda.png",
+		"logo": "images/smkmifda.png",
         "major": "Computer and Network Engineer",
         "year": "2019 - 2022",
         "description": "GPA 82.73; Focused on Wifi Network Engineering under the guidance of Yudo Sulistyo, S.Pd.; Became a multimedia part of Miftahul Huda Foundation"

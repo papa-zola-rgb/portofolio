@@ -1,21 +1,21 @@
 [
     {
         "company": "Arisamandiri Pratama",
-		"logo":"logoAM.png",
+		"logo":"images/logoAM.png",
         "position": "Electronic Maintenance",
         "year": "1-Sept, 2024 - 29-Dec, 2024",
         "description": "As a technician, I was actively involved in the maintenance and repair responsibilities of machines and tools in the manufacturing process. In addition, I was also given responsibility for a project to create a warehouse capacity monitoring tool for the company's development"
     },
 	{
         "company": "Kyai Galang Sewu",
-		"logo":"logoKGS.png",
+		"logo":"images/logoKGS.png",
         "position": "Network Engineering",
         "year": "2023",
         "description": "As a network technician, I am actively involved in the responsibility of maintaining and repairing all things related to internet connections to maintain user convenience. In addition, I also do development in improving network speed"
     },
     {
         "company": "Miftahul Huda",
-		"logo":"smkmifda.png",
+		"logo":"images/smkmifda.png",
         "position": "Multimedia",
         "year": "2021 - 2022",
         "description": "Make various kinds of posts, either videos or posters when there is a special event to spread important information for the advancement of the foundation"
