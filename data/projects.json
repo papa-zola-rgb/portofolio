@@ -32,5 +32,13 @@
         "description": "A tool for monitoring warehouse capacity to maintain neatness in the arrangement of manufactured goods. With a neat placement of goods, it will maximize the function and effectiveness of warehouse storage capacity.",
         "image": "project4.jpg",
         "link": "https://example.com/monitoring-warehouse"
+    },
+    {
+        "title": "LINE FOLLOWER",
+        "year": "2024, Fourt Semester",
+        "role": "Physical Assembly of Tools",
+        "description": "A robot designed to follow the path of a predetermined line. The line here uses black color placed on a light colored surface. This robot uses an infrared sensor to detect the line and then drives the motor to walk along the path.",
+        "image": "project5.jpg",
+        "link": "https://example.com/line-follower"
     }
 ]
